@@ -3,3 +3,7 @@ config_local.json
 __pycache__/
 *.tmp.wav
 *.pyc
+dist/
+build_pyi/
+release-zip/
+.configurado

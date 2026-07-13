@@ -18,7 +18,11 @@ import keyboard
 import psutil
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
-RAIZ = os.path.dirname(os.path.abspath(__file__))
+import sys
+# no exe congelado (PyInstaller onefile) __file__ mora numa pasta temporaria — a raiz real
+# (onde vivem sons/, cfg/, config_local.json) e a pasta do executavel
+RAIZ = (os.path.dirname(sys.executable) if getattr(sys, "frozen", False)
+        else os.path.dirname(os.path.abspath(__file__)))
 PASTA = os.path.join(RAIZ, "sons")
 # pasta de cfg do SEU CS2: o padrao cobre a instalacao comum da Steam; se o seu jogo mora em
 # outro disco, crie um config_local.json ao lado deste arquivo: {"cs2_cfg_dir": "D:\\...\\csgo\\cfg"}

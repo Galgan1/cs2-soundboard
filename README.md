@@ -35,6 +35,16 @@ Cada call tem 6 variações que giram em rodízio. Anti-repique de 1s.
 
 ## Instalação (Windows)
 
+**🏆 ZERO instalação (recomendado)** — baixe o ZIP portátil na
+[última release](https://github.com/Galgan1/cs2-soundboard/releases/latest), extraia onde
+quiser e dê **duplo clique em `soundboard.exe`**: o assistente copia os cfgs para o CS2,
+lista seus microfones num menu e escreve os binds sozinho. Único pré-requisito de verdade:
+o driver [VB-Cable](https://vb-audio.com/Cable/) (microfone virtual — não tem como embutir
+driver). Sem Python, sem pip, sem git, sem terminal.
+> SmartScreen/antivírus podem estranhar exe não assinado: "Mais informações → Executar
+> assim mesmo". O código-fonte é este repositório.
+
+
 **UM comando** (PowerShell — baixa tudo, instala dependências, configura o CS2; nem git precisa):
 ```
 powershell -ExecutionPolicy Bypass -c "irm https://raw.githubusercontent.com/Galgan1/cs2-soundboard/main/instalar-remoto.ps1 | iex"
