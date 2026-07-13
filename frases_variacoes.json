@@ -1,0 +1,146 @@
+{
+ "rushb": [
+  "Rush B! Vai, vai, vai!",
+  "Invadam o B! Rá rá rá!",
+  "Todos no B! Rush!",
+  "Tomem o B! Já!",
+  "Bora de rush no B!",
+  "O B será meu! Avancem!"
+ ],
+ "rushb_meio": [
+  "Rush B pelo meio!",
+  "Pelo meio... pro B!",
+  "B pelo meio! Vamos!",
+  "Meio! Depois o B!",
+  "Pelo meio! Rush B!",
+  "Cortem pelo meio! Rá rá!"
+ ],
+ "rusha_fundo": [
+  "Rush A pelo fundo!",
+  "Pelo fundo! Peguem o A!",
+  "A pelo fundo! Todos!",
+  "Fundo! Rumo ao A!",
+  "Pelo fundo! Rush A!",
+  "O A é nosso! Pelo fundo!"
+ ],
+ "varanda": [
+  "Ataque pela varanda!",
+  "Pela varanda... subam!",
+  "Varanda! Subam!",
+  "Escalem a varanda!",
+  "Bora pela varanda!",
+  "Varanda! Subam, capangas!"
+ ],
+ "avancar": [
+  "Avançar! Avançar!",
+  "Avancem, meus capangas!",
+  "Pra frente! Avança!",
+  "Pra frente! Marchem!",
+  "Avança todo mundo!",
+  "Avancem! Sem piedade!"
+ ],
+ "segurar": [
+  "Segurar posição!",
+  "Parados! Esperem...",
+  "Segura! Ninguém sai!",
+  "Ninguém avança! Quietos!",
+  "Posição! Aguenta aí!",
+  "Segurem! Eles virão..."
+ ],
+ "fake_a": [
+  "[whispers] Barulho no A... [shouting] bomba no B!",
+  "Enganem no A... bomba no B! Rá rá!",
+  "[whispers] Pressão no A... [shouting] plant no B!",
+  "Teatro no A... o alvo é o B!",
+  "[whispers] Chama atenção no A... [shouting] vamos no B!",
+  "Distraiam no A... o B é o plano!"
+ ],
+ "respawn": [
+  "Round novo! Foco!",
+  "Mais um round... rá rá!",
+  "Novo round! Bora!",
+  "Round novo! Que comece!",
+  "Recomeçou! Atenção!",
+  "De novo! Agora vai!"
+ ],
+ "vitoria": [
+  "Vitória! Muito bem, equipe!",
+  "Vencemos! Rá rá rá! Excelente!",
+  "Ganhamos! Bela partida!",
+  "Vitória! Como planejado!",
+  "Vitória confirmada! Parabéns!",
+  "Esmagados! Rá rá rá!"
+ ],
+ "derrota": [
+  "Round perdido. O próximo é nosso.",
+  "Perdemos?! Inaceitável!",
+  "Perdemos esse. Bora virar.",
+  "Derrotados?! Impossível!",
+  "Foi. Cabeça erguida: próximo.",
+  "Perdemos... vingança no próximo!"
+ ],
+ "ct_defb": [
+  "Defesa no B!",
+  "Defendam o B... já!",
+  "Todos defendendo o B!",
+  "Guardem o B, capangas!",
+  "Protejam o B!",
+  "O B não cai! Defendam!"
+ ],
+ "ct_meio": [
+  "Atenção ao meio!",
+  "Olho no meio!",
+  "Olhos no meio, capangas!",
+  "Vigiem o meio!",
+  "Cuidado com o meio!",
+  "Meio! Atenção total!"
+ ],
+ "ct_longa": [
+  "Defesa na Longa!",
+  "Guardem a Longa!",
+  "Segurem a Longa!",
+  "Fechem a Longa!",
+  "Atenção na Longa!",
+  "Ninguém cruza a Longa!"
+ ],
+ "ct_varanda": [
+  "Segurem a varanda!",
+  "Vigiem a varanda!",
+  "Fechem a varanda!",
+  "Protejam a varanda!",
+  "Olho na varanda!",
+  "Ninguém passa na varanda!"
+ ],
+ "ct_avancar": [
+  "Avançar juntos!",
+  "Avancem juntos!",
+  "Bora avançar!",
+  "Pra frente, todos!",
+  "Pra frente, juntos!",
+  "Avancem! Encurralem!"
+ ],
+ "ct_segurar": [
+  "Segurar posições!",
+  "Ninguém se mexe!",
+  "Ninguém sai da posição!",
+  "Posições! Quietos!",
+  "Segura aí!",
+  "Segurem firme!"
+ ],
+ "ct_rotacao": [
+  "Rotação! Outro bomb! Agoooora!",
+  "Troquem de bomb! Rápido!",
+  "Roda! Outro bomb!",
+  "Outro bomb! Corram!",
+  "Troca de bomb! Rápido!",
+  "Rotação! Já, já, já!"
+ ],
+ "ct_round": [
+  "Round novo! Comprem!",
+  "Comprem tudo! Rá rá!",
+  "Novo round! Compra junto!",
+  "Equipem-se! Round novo!",
+  "Round novo! Equipem-se!",
+  "Comprem! O plano continua!"
+ ]
+}

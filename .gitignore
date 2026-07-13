@@ -1,0 +1,5 @@
+registro.log
+config_local.json
+__pycache__/
+*.tmp.wav
+*.pyc
