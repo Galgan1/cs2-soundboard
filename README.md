@@ -35,6 +35,17 @@ Cada call tem 6 variações que giram em rodízio. Anti-repique de 1s.
 
 ## Instalação (Windows)
 
+**Jeito rápido** (Python 3.11+ e git instalados):
+```
+git clone https://github.com/Galgan1/cs2-soundboard.git
+cd cs2-soundboard
+instalar.bat
+```
+O instalador baixa as dependências, copia os cfgs para o CS2 e lista o que resta manual
+(VB-Cable, nome do seu mic, autoexec). Sem git: baixe o ZIP em Code → Download ZIP.
+
+**Passo a passo manual:**
+
 1. **Python 3.11+** e as dependências:
    ```
    pip install -r requirements.txt
